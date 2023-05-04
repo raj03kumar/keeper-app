@@ -55,3 +55,25 @@ footer p {
   word-wrap: break-word;
   padding-left: 1em;
 }
+
+/* Custom Scrollbar*/
+
+/* width */
+::-webkit-scrollbar{
+    width: 8px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track{
+    background: #ebd4b9;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb{
+    background: #e7b205;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover{
+    background: #d6811a;
+}
