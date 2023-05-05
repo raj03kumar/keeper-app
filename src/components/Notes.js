@@ -47,6 +47,27 @@ const notes =[
         first:"Books",
         second:"Protein Shake",
         third:"Clothes"
+    },
+    {
+        key: 8,
+        title: "To Spread",
+        first:"Kindness",
+        second:"Peace",
+        third:"Happiness"
+    },
+    {
+        key: 9,
+        title: "To Build",
+        first:"Self Image",
+        second:"Confidence",
+        third:"Personality"
+    },
+    {
+        key: 10,
+        title: "To Bring",
+        first:"Gifts",
+        second:"Chocolates",
+        third:"Notebooks"
     }
 ];
 
